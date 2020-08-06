@@ -7,7 +7,7 @@
 
 <hr />
 
-<div style="text-align:center;"> <b>#KLIMAKONTENT</b> </div>
+<div style="text-align:center;"> <b>#KLIMACONTENT</b> </div>
 
 <a href="https://www1.wdr.de/mediathek/audio/wdr5/wdr5-denk-ich-an-europa/audio-luisa-neubauer-nehmt-den-klimaschutz-in-europa-ernst-100.html" class="btn btn-lg btn-outline-dark btn-block" role="button"><i class="fa fa-link">&nbsp;</i>[Interview] Luisa Neubauer: „Nehmt den Klimaschutz in Europa ernst!“ (WDR5)</a>
 
