@@ -9,6 +9,12 @@
 
 <div style="text-align:center;"> <b>#KLIMACONTENT</b> </div>
 
+<a href="https://time.com/5863684/greta-thunberg-diary-climate-crisis/" class="btn btn-lg btn-outline-dark btn-block" role="button"><i class="fa fa-link">&nbsp;</i>[Text] „Six Months on a Planet in Crisis: Greta Thunberg's Travel Diary from the U.S. to Davos“</a>
+
+<a href="https://open.spotify.com/episode/7E2Wz3C5XwtEw3Pi96tLQA" class="btn btn-lg btn-outline-dark btn-block" role="button"><i class="fa fa-link">&nbsp;</i>[Audio-Version] „Greta Thunberg: Humanity has not yet failed“ (Spotify)</a>
+
+<a href="https://www.ndr.de/ratgeber/klimawandel/CO2-Ausstoss-in-Deutschland-Sektoren,kohlendioxid146.html" class="btn btn-lg btn-outline-dark btn-block" role="button"><i class="fa fa-link">&nbsp;</i>[Video] „Kohlendioxid: Was sind die größten Klimakiller?“ - NDR #wetterextrem (7:42 Minuten)</a>
+
 <a href="https://www.youtube.com/watch?v=s09tpKftRpE&feature=youtu.be" class="btn btn-lg btn-outline-dark btn-block" role="button"><i class="fa fa-link">&nbsp;</i>„Ein paar Worte über Kobalt und Elektroautos“- move electric</a>
 
 <a href="https://www.br.de/nachrichten/wissen/faktenfuchs-kobalt-nachfrage-steigt-wegen-der-e-mobilitaet,Rh9NihM" class="btn btn-lg btn-outline-dark btn-block" role="button"><i class="fa fa-link">&nbsp;</i>„#Faktenfuchs: Kobalt-Nachfrage steigt wegen der E-Mobilität“ (Bayerischer Rundfunk)</a>
