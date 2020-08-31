@@ -76,15 +76,18 @@ function modules() {
 
   var scrollProgress = gulp.src('./node_modules/scrollprogress/dist/**/*')
     .pipe(gulp.dest('./build/vendor/scrollprogress'));
+
   // copy directories
 
   var markdownImages = gulp.src(['./markdown/img/**/*']).pipe(gulp.dest('./build/img'));
   var staticImages = gulp.src(['./src/static/**/*']).pipe(gulp.dest('./build/static'));
   var fonts = gulp.src(['./src/fonts/**/*']).pipe(gulp.dest('./build/fonts'));
 
+  var json = gulp.src(['./json/**/*']).pipe(gulp.dest('./build/json'));
+
   var htaccess = gulp.src(['./.htaccess']).pipe(gulp.dest('./build'));
 
-  return merge(bootstrap, fontAwesomeCSS, fontAwesomeWebfonts, jquery, scrollProgress, markdownImages, staticImages, fonts, htaccess);
+  return merge(bootstrap, fontAwesomeCSS, fontAwesomeWebfonts, jquery, scrollProgress, markdownImages, staticImages, fonts, json, htaccess);
 }
 
 // CSS task
@@ -176,6 +179,7 @@ function watchFiles() {
   gulp.watch("./src/scss/**/*", css);
   gulp.watch(["./src/js/**/*", "!./js/**/*.min.js"], js);
   gulp.watch("./markdown/**/*.md", convertMarkdown);
+  gulp.watch("./json/**/*.json", modules);
   gulp.watch("./src/index.template.html", convertMarkdown);
   gulp.watch(["./src/static/**/*","./markdown/img/**/*"], modules);
 }
